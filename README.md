@@ -16,7 +16,6 @@ site/
  ┣ 📂fonts/ (Fuentes y íconos)
  ┣ 📂images/ (Imágenes y recursos gráficos)
  ┣ 📂js/ (Scripts y funcionalidades)
- ┣ 📂video/ (Multimedia)
  ┗ 📜index.html (Archivo principal)
 ```
 
